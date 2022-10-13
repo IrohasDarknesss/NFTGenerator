@@ -1,0 +1,6 @@
+[submodule "CLIP"]
+	path = CLIP
+	url = https://github.com/openai/CLIP
+[submodule "guided-diffusion"]
+	path = guided-diffusion
+	url = https://github.com/crowsonkb/guided-diffusion
